@@ -1,0 +1,2 @@
+# RAGFlow_MinIO_images
+RAGFlow知识库处理支持图片链接
